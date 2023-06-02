@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P3</string>
+    <string name="claps">Claps👏👏👏</string>
+    <string name="welcome_back">Welcome</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Sign in</string>
+    <string name="signup">Sign up</string>
+</resources>
